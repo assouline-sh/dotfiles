@@ -1,0 +1,20 @@
+live_config_reload = true
+import = ["/Users/shanz/.nvm/versions/node/v18.19.0/lib/node_modules/alacritty-themes/themes/Base16-Default-Dark.toml"]
+
+[font]
+size = 12
+
+[font.normal]
+family = "FiraMono Nerd Font Mono"
+style = "Regular"
+
+[window]
+decorations = "buttonless"
+dynamic_padding = false
+opacity = 0.85
+startup_mode = "Windowed"
+
+[window.padding]
+x = 15
+y = 15
+
