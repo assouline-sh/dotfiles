@@ -1,0 +1,9 @@
+ #identity-box.extensionPage {
+
+display: none !important;
+
+} 
+
+tabbrowser tabpanels { background-color: rgb(19,19,20) !important; }
+browser { background-color: #131314 !important; }
+.titlebar-buttonbox-container{ display:none }
